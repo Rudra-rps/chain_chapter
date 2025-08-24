@@ -133,7 +133,7 @@ export default function BlackSwanSentinel() {
                       x1="85%"
                       y1="80%"
                       x2="85%"
-                      y1="35%"
+                      y="35%"
                       stroke="#98B89F"
                       strokeWidth="1"
                       opacity="0.4"
@@ -373,7 +373,7 @@ export default function BlackSwanSentinel() {
                 <h4 className="text-base sm:text-lg font-semibold text-white mb-4 sm:mb-6">Connect With Us</h4>
                 <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-8">
                   <a
-                    href="https://github.com/chainchapter"
+                    href="https://github.com/Rudra-rps"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center space-x-2 text-gray-400 hover:text-[#98B89F] transition-colors duration-200"
@@ -382,7 +382,7 @@ export default function BlackSwanSentinel() {
                     <span className="font-medium text-sm sm:text-base">GitHub</span>
                   </a>
                   <a
-                    href="https://twitter.com/chainchapter"
+                    href="https://twitter.com/Rudraps_2005"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center space-x-2 text-gray-400 hover:text-[#98B89F] transition-colors duration-200"
@@ -391,7 +391,7 @@ export default function BlackSwanSentinel() {
                     <span className="font-medium text-sm sm:text-base">X (Twitter)</span>
                   </a>
                   <a
-                    href="https://linkedin.com/company/chainchapter"
+                    href="https://www.linkedin.com/in/rudra-pratap-singh-4471b9350/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="group flex items-center space-x-2 text-gray-400 hover:text-[#98B89F] transition-colors duration-200"
